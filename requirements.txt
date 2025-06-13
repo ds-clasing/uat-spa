@@ -1,0 +1,14 @@
+fastapi[all]==0.109.1
+gunicorn==21.2.0
+uvicorn==0.27.0
+
+celery[rabbitmq]==5.3.6
+
+pandas
+numpy
+matplotlib
+seaborn
+pydub
+g2p_en
+nltk
+google-generativeai
